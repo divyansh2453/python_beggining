@@ -28,7 +28,7 @@ A command-line calculator for basic operations (+, −, ×, ÷) with input valid
 ## 🎓 Based On
 
 This entire practice series is based on  
-📺 [CodeWithHarry – Python for Beginners (Masterclass)](https://www.youtube.com/watch?v=gfDE2a7MKjA)
+📺 [CodeWithHarry – Python for Beginners (Masterclass)]([https://www.youtube.com/watch?v=gfDE2a7MKjA](https://youtu.be/UrsmFxEIp5k?si=aNq26wW9hCgUYWVB))
 
 ---
 
